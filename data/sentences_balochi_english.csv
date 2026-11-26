@@ -1,0 +1,501 @@
+﻿ID,Balochi_Sentence,English_Translation,Category,Dialect_Variant
+1,سلام، تئی حال چُک اِنت؟,"Hello, how are you?",Greetings,Western/Rakhshani
+2,من شرّ آں، مہربانی۔,"I am fine, thank you.",Greetings,Western/Rakhshani
+3,پدا دیوان ءِ وھد ءَ مِلاقات بیت۔,We will meet again later.,Greetings,General
+4,تئی نام چی‌اِنت؟,What is your name?,Greetings,General
+5,مئی نام بلوچ اِنت۔,My name is Baloch.,Greetings,General
+6,شما کجا روان اِت؟,Where are you going?,Daily Life,Western
+7,من باز وشحال آں کہ ترا دید۔,I am very happy to see you.,Emotions,General
+8,روچ بخیر، صبحدم شرّ اِت۔,"Good morning, hope your morning is good.",Greetings,General
+9,شبیہ شرّ اِت، خدا حافظ۔,"Good night, goodbye.",Greetings,General
+10,من گِس ءَ رواں۔,I am going home.,Daily Life,General
+11,مئی پِت ءُ مات باز مہربان اَنت۔,My parents are very kind.,Family,General
+12,آئیءِ براس درس خواندگ ءَ اِنت۔,His brother is studying.,Family,General
+13,گُوھار من ءَ کتابے دات۔,Sister gave me a book.,Family,General
+14,ما گوں وتی خاہندان ءَ نندگ ءَ آں۔,We are sitting with our family.,Family,General
+15,بچّک وتی پِت ءِ همراه ءَ شت۔,The boy went with his father.,Family,General
+16,بُزُرگیں مردمانی عزت کنگی اِنت۔,Elderly people should be respected.,Society,General
+17,مئے گِس ءِ نزیک ءَ یک باغیچے هست۔,There is a garden near our house.,Family,General
+18,آئیءِ چکّ نوکیں جامگ پوشتگ اَنت۔,His children are wearing new clothes.,Family,General
+19,ما گوں وتی دوستان ءَ گند و نند کنیں۔,We visit our friends.,Family,General
+20,مادر ءِ مهر بے پایاں اِنت۔,A mother's love is endless.,Family,General
+21,روچ تچک ءَ دراتکگ۔,The sun has risen straight.,Weather,General
+22,مرچی موسُم باز وش اِنت۔,Today the weather is very pleasant.,Weather,General
+23,گوات تیزی ءَ لرزگ ءَ اِنت۔,The wind is blowing strongly.,Weather,General
+24,آسمان په تراک ءِ جمبران پُرّ اِنت۔,The sky is full of dark clouds.,Weather,General
+25,برات، مرچی باران بوتگ؟,"Brother, did it rain today?",Weather,General
+26,کوہ ءِ سر ءَ برف پرشتگ۔,Snow has fallen on top of the mountain.,Nature,General
+27,درچک سبز ءُ پُل ڈولدار اَنت۔,Trees are green and flowers are beautiful.,Nature,General
+28,دریاہ ءِ آپ باز شیرکن اِنت۔,The water of the river is very sweet.,Nature,General
+29,شپ ءَ تاریکی باز بیت۔,At night it gets very dark.,Nature,General
+30,تفتان کوہ یک نامداریں کوہے اِنت۔,Mount Taftan is a famous mountain.,Geography,General
+31,ما سبزی ءُ نان وارتگ۔,We have eaten bread and vegetables.,Food,General
+32,آئیءِ چمَّگ ءِ شیر گرم اِنت۔,The cow's milk is warm.,Food,General
+33,دهقان زمین ءَ کشگ ءَ اِنت۔,The farmer is ploughing the land.,Agriculture,General
+34,گندُم ءِ فصل نوک سبز بوتگ۔,The wheat crop has just sprouted.,Agriculture,General
+35,پالک ءُ زردک باز فائدہ مند اَنت۔,Spinach and carrots are very beneficial.,Food,General
+36,من تشانه‌ئی آپ وارتگ۔,I drank some water.,Food,General
+37,چاهی گرم گرم نوشگی اِنت۔,Tea should be drunk while hot.,Food,General
+38,پالوان گوشت ءُ گندُم وارت۔,The wrestler ate meat and wheat.,Food,General
+39,باغ ءِ تها انگور ءِ درچک هست۔,There are grapevine trees in the garden.,Agriculture,General
+40,بلوچی پالوان تباە نہ بیت۔,Balochi cuisine is not spoiled easily.,Food,General
+41,سلام، تئی حال چُک اِنت؟,"Hello, how are you?",Greetings,Western/Rakhshani
+42,من شرّ آں، مہربانی۔,"I am fine, thank you.",Greetings,Western/Rakhshani
+43,پدا دیوان ءِ وھد ءَ مِلاقات بیت۔,We will meet again later.,Greetings,General
+44,تئی نام چی‌اِنت؟,What is your name?,Greetings,General
+45,مئی نام بلوچ اِنت۔,My name is Baloch.,Greetings,General
+46,شما کجا روان اِت؟,Where are you going?,Daily Life,Western
+47,من باز وشحال آں کہ ترا دید۔,I am very happy to see you.,Emotions,General
+48,روچ بخیر، صبحدم شرّ اِت۔,"Good morning, hope your morning is good.",Greetings,General
+49,شبیہ شرّ اِت، خدا حافظ۔,"Good night, goodbye.",Greetings,General
+50,من گِس ءَ رواں۔,I am going home.,Daily Life,General
+51,مئی پِت ءُ مات باز مہربان اَنت۔,My parents are very kind.,Family,General
+52,آئیءِ براس درس خواندگ ءَ اِنت۔,His brother is studying.,Family,General
+53,گُوھار من ءَ کتابے دات۔,Sister gave me a book.,Family,General
+54,ما گوں وتی خاہندان ءَ نندگ ءَ آں۔,We are sitting with our family.,Family,General
+55,بچّک وتی پِت ءِ همراه ءَ شت۔,The boy went with his father.,Family,General
+56,بُزُرگیں مردمانی عزت کنگی اِنت۔,Elderly people should be respected.,Society,General
+57,مئے گِس ءِ نزیک ءَ یک باغیچے هست۔,There is a garden near our house.,Family,General
+58,آئیءِ چکّ نوکیں جامگ پوشتگ اَنت۔,His children are wearing new clothes.,Family,General
+59,ما گوں وتی دوستان ءَ گند و نند کنیں۔,We visit our friends.,Family,General
+60,مادر ءِ مهر بے پایاں اِنت۔,A mother's love is endless.,Family,General
+61,روچ تچک ءَ دراتکگ۔,The sun has risen straight.,Weather,General
+62,مرچی موسُم باز وش اِنت۔,Today the weather is very pleasant.,Weather,General
+63,گوات تیزی ءَ لرزگ ءَ اِنت۔,The wind is blowing strongly.,Weather,General
+64,آسمان په تراک ءِ جمبران پُرّ اِنت۔,The sky is full of dark clouds.,Weather,General
+65,برات، مرچی باران بوتگ؟,"Brother, did it rain today?",Weather,General
+66,کوہ ءِ سر ءَ برف پرشتگ۔,Snow has fallen on top of the mountain.,Nature,General
+67,درچک سبز ءُ پُل ڈولدار اَنت۔,Trees are green and flowers are beautiful.,Nature,General
+68,دریاہ ءِ آپ باز شیرکن اِنت۔,The water of the river is very sweet.,Nature,General
+69,شپ ءَ تاریکی باز بیت۔,At night it gets very dark.,Nature,General
+70,تفتان کوہ یک نامداریں کوہے اِنت۔,Mount Taftan is a famous mountain.,Geography,General
+71,ما سبزی ءُ نان وارتگ۔,We have eaten bread and vegetables.,Food,General
+72,آئیءِ چمَّگ ءِ شیر گرم اِنت۔,The cow's milk is warm.,Food,General
+73,دهقان زمین ءَ کشگ ءَ اِنت۔,The farmer is ploughing the land.,Agriculture,General
+74,گندُم ءِ فصل نوک سبز بوتگ۔,The wheat crop has just sprouted.,Agriculture,General
+75,پالک ءُ زردک باز فائدہ مند اَنت۔,Spinach and carrots are very beneficial.,Food,General
+76,من تشانه‌ئی آپ وارتگ۔,I drank some water.,Food,General
+77,چاهی گرم گرم نوشگی اِنت۔,Tea should be drunk while hot.,Food,General
+78,پالوان گوشت ءُ گندُم وارت۔,The wrestler ate meat and wheat.,Food,General
+79,باغ ءِ تها انگور ءِ درچک هست۔,There are grapevine trees in the garden.,Agriculture,General
+80,بلوچی پالوان تباە نہ بیت۔,Balochi cuisine is not spoiled easily.,Food,General
+81,سلام، تئی حال چُک اِنت؟,"Hello, how are you?",Greetings,Western/Rakhshani
+82,من شرّ آں، مہربانی۔,"I am fine, thank you.",Greetings,Western/Rakhshani
+83,پدا دیوان ءِ وھد ءَ مِلاقات بیت۔,We will meet again later.,Greetings,General
+84,تئی نام چی‌اِنت؟,What is your name?,Greetings,General
+85,مئی نام بلوچ اِنت۔,My name is Baloch.,Greetings,General
+86,شما کجا روان اِت؟,Where are you going?,Daily Life,Western
+87,من باز وشحال آں کہ ترا دید۔,I am very happy to see you.,Emotions,General
+88,روچ بخیر، صبحدم شرّ اِت۔,"Good morning, hope your morning is good.",Greetings,General
+89,شبیہ شرّ اِت، خدا حافظ۔,"Good night, goodbye.",Greetings,General
+90,من گِس ءَ رواں۔,I am going home.,Daily Life,General
+91,مئی پِت ءُ مات باز مہربان اَنت۔,My parents are very kind.,Family,General
+92,آئیءِ براس درس خواندگ ءَ اِنت۔,His brother is studying.,Family,General
+93,گُوھار من ءَ کتابے دات۔,Sister gave me a book.,Family,General
+94,ما گوں وتی خاہندان ءَ نندگ ءَ آں۔,We are sitting with our family.,Family,General
+95,بچّک وتی پِت ءِ همراه ءَ شت۔,The boy went with his father.,Family,General
+96,بُزُرگیں مردمانی عزت کنگی اِنت۔,Elderly people should be respected.,Society,General
+97,مئے گِس ءِ نزیک ءَ یک باغیچے هست۔,There is a garden near our house.,Family,General
+98,آئیءِ چکّ نوکیں جامگ پوشتگ اَنت۔,His children are wearing new clothes.,Family,General
+99,ما گوں وتی دوستان ءَ گند و نند کنیں۔,We visit our friends.,Family,General
+100,مادر ءِ مهر بے پایاں اِنت۔,A mother's love is endless.,Family,General
+101,روچ تچک ءَ دراتکگ۔,The sun has risen straight.,Weather,General
+102,مرچی موسُم باز وش اِنت۔,Today the weather is very pleasant.,Weather,General
+103,گوات تیزی ءَ لرزگ ءَ اِنت۔,The wind is blowing strongly.,Weather,General
+104,آسمان په تراک ءِ جمبران پُرّ اِنت۔,The sky is full of dark clouds.,Weather,General
+105,برات، مرچی باران بوتگ؟,"Brother, did it rain today?",Weather,General
+106,کوہ ءِ سر ءَ برف پرشتگ۔,Snow has fallen on top of the mountain.,Nature,General
+107,درچک سبز ءُ پُل ڈولدار اَنت۔,Trees are green and flowers are beautiful.,Nature,General
+108,دریاہ ءِ آپ باز شیرکن اِنت۔,The water of the river is very sweet.,Nature,General
+109,شپ ءَ تاریکی باز بیت۔,At night it gets very dark.,Nature,General
+110,تفتان کوہ یک نامداریں کوہے اِنت۔,Mount Taftan is a famous mountain.,Geography,General
+111,ما سبزی ءُ نان وارتگ۔,We have eaten bread and vegetables.,Food,General
+112,آئیءِ چمَّگ ءِ شیر گرم اِنت۔,The cow's milk is warm.,Food,General
+113,دهقان زمین ءَ کشگ ءَ اِنت۔,The farmer is ploughing the land.,Agriculture,General
+114,گندُم ءِ فصل نوک سبز بوتگ۔,The wheat crop has just sprouted.,Agriculture,General
+115,پالک ءُ زردک باز فائدہ مند اَنت۔,Spinach and carrots are very beneficial.,Food,General
+116,من تشانه‌ئی آپ وارتگ۔,I drank some water.,Food,General
+117,چاهی گرم گرم نوشگی اِنت۔,Tea should be drunk while hot.,Food,General
+118,پالوان گوشت ءُ گندُم وارت۔,The wrestler ate meat and wheat.,Food,General
+119,باغ ءِ تها انگور ءِ درچک هست۔,There are grapevine trees in the garden.,Agriculture,General
+120,بلوچی پالوان تباە نہ بیت۔,Balochi cuisine is not spoiled easily.,Food,General
+121,سلام، تئی حال چُک اِنت؟,"Hello, how are you?",Greetings,Western/Rakhshani
+122,من شرّ آں، مہربانی۔,"I am fine, thank you.",Greetings,Western/Rakhshani
+123,پدا دیوان ءِ وھد ءَ مِلاقات بیت۔,We will meet again later.,Greetings,General
+124,تئی نام چی‌اِنت؟,What is your name?,Greetings,General
+125,مئی نام بلوچ اِنت۔,My name is Baloch.,Greetings,General
+126,شما کجا روان اِت؟,Where are you going?,Daily Life,Western
+127,من باز وشحال آں کہ ترا دید۔,I am very happy to see you.,Emotions,General
+128,روچ بخیر، صبحدم شرّ اِت۔,"Good morning, hope your morning is good.",Greetings,General
+129,شبیہ شرّ اِت، خدا حافظ۔,"Good night, goodbye.",Greetings,General
+130,من گِس ءَ رواں۔,I am going home.,Daily Life,General
+131,مئی پِت ءُ مات باز مہربان اَنت۔,My parents are very kind.,Family,General
+132,آئیءِ براس درس خواندگ ءَ اِنت۔,His brother is studying.,Family,General
+133,گُوھار من ءَ کتابے دات۔,Sister gave me a book.,Family,General
+134,ما گوں وتی خاہندان ءَ نندگ ءَ آں۔,We are sitting with our family.,Family,General
+135,بچّک وتی پِت ءِ همراه ءَ شت۔,The boy went with his father.,Family,General
+136,بُزُرگیں مردمانی عزت کنگی اِنت۔,Elderly people should be respected.,Society,General
+137,مئے گِس ءِ نزیک ءَ یک باغیچے هست۔,There is a garden near our house.,Family,General
+138,آئیءِ چکّ نوکیں جامگ پوشتگ اَنت۔,His children are wearing new clothes.,Family,General
+139,ما گوں وتی دوستان ءَ گند و نند کنیں۔,We visit our friends.,Family,General
+140,مادر ءِ مهر بے پایاں اِنت۔,A mother's love is endless.,Family,General
+141,روچ تچک ءَ دراتکگ۔,The sun has risen straight.,Weather,General
+142,مرچی موسُم باز وش اِنت۔,Today the weather is very pleasant.,Weather,General
+143,گوات تیزی ءَ لرزگ ءَ اِنت۔,The wind is blowing strongly.,Weather,General
+144,آسمان په تراک ءِ جمبران پُرّ اِنت۔,The sky is full of dark clouds.,Weather,General
+145,برات، مرچی باران بوتگ؟,"Brother, did it rain today?",Weather,General
+146,کوہ ءِ سر ءَ برف پرشتگ۔,Snow has fallen on top of the mountain.,Nature,General
+147,درچک سبز ءُ پُل ڈولدار اَنت۔,Trees are green and flowers are beautiful.,Nature,General
+148,دریاہ ءِ آپ باز شیرکن اِنت۔,The water of the river is very sweet.,Nature,General
+149,شپ ءَ تاریکی باز بیت۔,At night it gets very dark.,Nature,General
+150,تفتان کوہ یک نامداریں کوہے اِنت۔,Mount Taftan is a famous mountain.,Geography,General
+151,ما سبزی ءُ نان وارتگ۔,We have eaten bread and vegetables.,Food,General
+152,آئیءِ چمَّگ ءِ شیر گرم اِنت۔,The cow's milk is warm.,Food,General
+153,دهقان زمین ءَ کشگ ءَ اِنت۔,The farmer is ploughing the land.,Agriculture,General
+154,گندُم ءِ فصل نوک سبز بوتگ۔,The wheat crop has just sprouted.,Agriculture,General
+155,پالک ءُ زردک باز فائدہ مند اَنت۔,Spinach and carrots are very beneficial.,Food,General
+156,من تشانه‌ئی آپ وارتگ۔,I drank some water.,Food,General
+157,چاهی گرم گرم نوشگی اِنت۔,Tea should be drunk while hot.,Food,General
+158,پالوان گوشت ءُ گندُم وارت۔,The wrestler ate meat and wheat.,Food,General
+159,باغ ءِ تها انگور ءِ درچک هست۔,There are grapevine trees in the garden.,Agriculture,General
+160,بلوچی پالوان تباە نہ بیت۔,Balochi cuisine is not spoiled easily.,Food,General
+161,سلام، تئی حال چُک اِنت؟,"Hello, how are you?",Greetings,Western/Rakhshani
+162,من شرّ آں، مہربانی۔,"I am fine, thank you.",Greetings,Western/Rakhshani
+163,پدا دیوان ءِ وھد ءَ مِلاقات بیت۔,We will meet again later.,Greetings,General
+164,تئی نام چی‌اِنت؟,What is your name?,Greetings,General
+165,مئی نام بلوچ اِنت۔,My name is Baloch.,Greetings,General
+166,شما کجا روان اِت؟,Where are you going?,Daily Life,Western
+167,من باز وشحال آں کہ ترا دید۔,I am very happy to see you.,Emotions,General
+168,روچ بخیر، صبحدم شرّ اِت۔,"Good morning, hope your morning is good.",Greetings,General
+169,شبیہ شرّ اِت، خدا حافظ۔,"Good night, goodbye.",Greetings,General
+170,من گِس ءَ رواں۔,I am going home.,Daily Life,General
+171,مئی پِت ءُ مات باز مہربان اَنت۔,My parents are very kind.,Family,General
+172,آئیءِ براس درس خواندگ ءَ اِنت۔,His brother is studying.,Family,General
+173,گُوھار من ءَ کتابے دات۔,Sister gave me a book.,Family,General
+174,ما گوں وتی خاہندان ءَ نندگ ءَ آں۔,We are sitting with our family.,Family,General
+175,بچّک وتی پِت ءِ همراه ءَ شت۔,The boy went with his father.,Family,General
+176,بُزُرگیں مردمانی عزت کنگی اِنت۔,Elderly people should be respected.,Society,General
+177,مئے گِس ءِ نزیک ءَ یک باغیچے هست۔,There is a garden near our house.,Family,General
+178,آئیءِ چکّ نوکیں جامگ پوشتگ اَنت۔,His children are wearing new clothes.,Family,General
+179,ما گوں وتی دوستان ءَ گند و نند کنیں۔,We visit our friends.,Family,General
+180,مادر ءِ مهر بے پایاں اِنت۔,A mother's love is endless.,Family,General
+181,روچ تچک ءَ دراتکگ۔,The sun has risen straight.,Weather,General
+182,مرچی موسُم باز وش اِنت۔,Today the weather is very pleasant.,Weather,General
+183,گوات تیزی ءَ لرزگ ءَ اِنت۔,The wind is blowing strongly.,Weather,General
+184,آسمان په تراک ءِ جمبران پُرّ اِنت۔,The sky is full of dark clouds.,Weather,General
+185,برات، مرچی باران بوتگ؟,"Brother, did it rain today?",Weather,General
+186,کوہ ءِ سر ءَ برف پرشتگ۔,Snow has fallen on top of the mountain.,Nature,General
+187,درچک سبز ءُ پُل ڈولدار اَنت۔,Trees are green and flowers are beautiful.,Nature,General
+188,دریاہ ءِ آپ باز شیرکن اِنت۔,The water of the river is very sweet.,Nature,General
+189,شپ ءَ تاریکی باز بیت۔,At night it gets very dark.,Nature,General
+190,تفتان کوہ یک نامداریں کوہے اِنت۔,Mount Taftan is a famous mountain.,Geography,General
+191,ما سبزی ءُ نان وارتگ۔,We have eaten bread and vegetables.,Food,General
+192,آئیءِ چمَّگ ءِ شیر گرم اِنت۔,The cow's milk is warm.,Food,General
+193,دهقان زمین ءَ کشگ ءَ اِنت۔,The farmer is ploughing the land.,Agriculture,General
+194,گندُم ءِ فصل نوک سبز بوتگ۔,The wheat crop has just sprouted.,Agriculture,General
+195,پالک ءُ زردک باز فائدہ مند اَنت۔,Spinach and carrots are very beneficial.,Food,General
+196,من تشانه‌ئی آپ وارتگ۔,I drank some water.,Food,General
+197,چاهی گرم گرم نوشگی اِنت۔,Tea should be drunk while hot.,Food,General
+198,پالوان گوشت ءُ گندُم وارت۔,The wrestler ate meat and wheat.,Food,General
+199,باغ ءِ تها انگور ءِ درچک هست۔,There are grapevine trees in the garden.,Agriculture,General
+200,بلوچی پالوان تباە نہ بیت۔,Balochi cuisine is not spoiled easily.,Food,General
+201,سلام، تئی حال چُک اِنت؟,"Hello, how are you?",Greetings,Western/Rakhshani
+202,من شرّ آں، مہربانی۔,"I am fine, thank you.",Greetings,Western/Rakhshani
+203,پدا دیوان ءِ وھد ءَ مِلاقات بیت۔,We will meet again later.,Greetings,General
+204,تئی نام چی‌اِنت؟,What is your name?,Greetings,General
+205,مئی نام بلوچ اِنت۔,My name is Baloch.,Greetings,General
+206,شما کجا روان اِت؟,Where are you going?,Daily Life,Western
+207,من باز وشحال آں کہ ترا دید۔,I am very happy to see you.,Emotions,General
+208,روچ بخیر، صبحدم شرّ اِت۔,"Good morning, hope your morning is good.",Greetings,General
+209,شبیہ شرّ اِت، خدا حافظ۔,"Good night, goodbye.",Greetings,General
+210,من گِس ءَ رواں۔,I am going home.,Daily Life,General
+211,مئی پِت ءُ مات باز مہربان اَنت۔,My parents are very kind.,Family,General
+212,آئیءِ براس درس خواندگ ءَ اِنت۔,His brother is studying.,Family,General
+213,گُوھار من ءَ کتابے دات۔,Sister gave me a book.,Family,General
+214,ما گوں وتی خاہندان ءَ نندگ ءَ آں۔,We are sitting with our family.,Family,General
+215,بچّک وتی پِت ءِ همراه ءَ شت۔,The boy went with his father.,Family,General
+216,بُزُرگیں مردمانی عزت کنگی اِنت۔,Elderly people should be respected.,Society,General
+217,مئے گِس ءِ نزیک ءَ یک باغیچے هست۔,There is a garden near our house.,Family,General
+218,آئیءِ چکّ نوکیں جامگ پوشتگ اَنت۔,His children are wearing new clothes.,Family,General
+219,ما گوں وتی دوستان ءَ گند و نند کنیں۔,We visit our friends.,Family,General
+220,مادر ءِ مهر بے پایاں اِنت۔,A mother's love is endless.,Family,General
+221,روچ تچک ءَ دراتکگ۔,The sun has risen straight.,Weather,General
+222,مرچی موسُم باز وش اِنت۔,Today the weather is very pleasant.,Weather,General
+223,گوات تیزی ءَ لرزگ ءَ اِنت۔,The wind is blowing strongly.,Weather,General
+224,آسمان په تراک ءِ جمبران پُرّ اِنت۔,The sky is full of dark clouds.,Weather,General
+225,برات، مرچی باران بوتگ؟,"Brother, did it rain today?",Weather,General
+226,کوہ ءِ سر ءَ برف پرشتگ۔,Snow has fallen on top of the mountain.,Nature,General
+227,درچک سبز ءُ پُل ڈولدار اَنت۔,Trees are green and flowers are beautiful.,Nature,General
+228,دریاہ ءِ آپ باز شیرکن اِنت۔,The water of the river is very sweet.,Nature,General
+229,شپ ءَ تاریکی باز بیت۔,At night it gets very dark.,Nature,General
+230,تفتان کوہ یک نامداریں کوہے اِنت۔,Mount Taftan is a famous mountain.,Geography,General
+231,ما سبزی ءُ نان وارتگ۔,We have eaten bread and vegetables.,Food,General
+232,آئیءِ چمَّگ ءِ شیر گرم اِنت۔,The cow's milk is warm.,Food,General
+233,دهقان زمین ءَ کشگ ءَ اِنت۔,The farmer is ploughing the land.,Agriculture,General
+234,گندُم ءِ فصل نوک سبز بوتگ۔,The wheat crop has just sprouted.,Agriculture,General
+235,پالک ءُ زردک باز فائدہ مند اَنت۔,Spinach and carrots are very beneficial.,Food,General
+236,من تشانه‌ئی آپ وارتگ۔,I drank some water.,Food,General
+237,چاهی گرم گرم نوشگی اِنت۔,Tea should be drunk while hot.,Food,General
+238,پالوان گوشت ءُ گندُم وارت۔,The wrestler ate meat and wheat.,Food,General
+239,باغ ءِ تها انگور ءِ درچک هست۔,There are grapevine trees in the garden.,Agriculture,General
+240,بلوچی پالوان تباە نہ بیت۔,Balochi cuisine is not spoiled easily.,Food,General
+241,سلام، تئی حال چُک اِنت؟,"Hello, how are you?",Greetings,Western/Rakhshani
+242,من شرّ آں، مہربانی۔,"I am fine, thank you.",Greetings,Western/Rakhshani
+243,پدا دیوان ءِ وھد ءَ مِلاقات بیت۔,We will meet again later.,Greetings,General
+244,تئی نام چی‌اِنت؟,What is your name?,Greetings,General
+245,مئی نام بلوچ اِنت۔,My name is Baloch.,Greetings,General
+246,شما کجا روان اِت؟,Where are you going?,Daily Life,Western
+247,من باز وشحال آں کہ ترا دید۔,I am very happy to see you.,Emotions,General
+248,روچ بخیر، صبحدم شرّ اِت۔,"Good morning, hope your morning is good.",Greetings,General
+249,شبیہ شرّ اِت، خدا حافظ۔,"Good night, goodbye.",Greetings,General
+250,من گِس ءَ رواں۔,I am going home.,Daily Life,General
+251,مئی پِت ءُ مات باز مہربان اَنت۔,My parents are very kind.,Family,General
+252,آئیءِ براس درس خواندگ ءَ اِنت۔,His brother is studying.,Family,General
+253,گُوھار من ءَ کتابے دات۔,Sister gave me a book.,Family,General
+254,ما گوں وتی خاہندان ءَ نندگ ءَ آں۔,We are sitting with our family.,Family,General
+255,بچّک وتی پِت ءِ همراه ءَ شت۔,The boy went with his father.,Family,General
+256,بُزُرگیں مردمانی عزت کنگی اِنت۔,Elderly people should be respected.,Society,General
+257,مئے گِس ءِ نزیک ءَ یک باغیچے هست۔,There is a garden near our house.,Family,General
+258,آئیءِ چکّ نوکیں جامگ پوشتگ اَنت۔,His children are wearing new clothes.,Family,General
+259,ما گوں وتی دوستان ءَ گند و نند کنیں۔,We visit our friends.,Family,General
+260,مادر ءِ مهر بے پایاں اِنت۔,A mother's love is endless.,Family,General
+261,روچ تچک ءَ دراتکگ۔,The sun has risen straight.,Weather,General
+262,مرچی موسُم باز وش اِنت۔,Today the weather is very pleasant.,Weather,General
+263,گوات تیزی ءَ لرزگ ءَ اِنت۔,The wind is blowing strongly.,Weather,General
+264,آسمان په تراک ءِ جمبران پُرّ اِنت۔,The sky is full of dark clouds.,Weather,General
+265,برات، مرچی باران بوتگ؟,"Brother, did it rain today?",Weather,General
+266,کوہ ءِ سر ءَ برف پرشتگ۔,Snow has fallen on top of the mountain.,Nature,General
+267,درچک سبز ءُ پُل ڈولدار اَنت۔,Trees are green and flowers are beautiful.,Nature,General
+268,دریاہ ءِ آپ باز شیرکن اِنت۔,The water of the river is very sweet.,Nature,General
+269,شپ ءَ تاریکی باز بیت۔,At night it gets very dark.,Nature,General
+270,تفتان کوہ یک نامداریں کوہے اِنت۔,Mount Taftan is a famous mountain.,Geography,General
+271,ما سبزی ءُ نان وارتگ۔,We have eaten bread and vegetables.,Food,General
+272,آئیءِ چمَّگ ءِ شیر گرم اِنت۔,The cow's milk is warm.,Food,General
+273,دهقان زمین ءَ کشگ ءَ اِنت۔,The farmer is ploughing the land.,Agriculture,General
+274,گندُم ءِ فصل نوک سبز بوتگ۔,The wheat crop has just sprouted.,Agriculture,General
+275,پالک ءُ زردک باز فائدہ مند اَنت۔,Spinach and carrots are very beneficial.,Food,General
+276,من تشانه‌ئی آپ وارتگ۔,I drank some water.,Food,General
+277,چاهی گرم گرم نوشگی اِنت۔,Tea should be drunk while hot.,Food,General
+278,پالوان گوشت ءُ گندُم وارت۔,The wrestler ate meat and wheat.,Food,General
+279,باغ ءِ تها انگور ءِ درچک هست۔,There are grapevine trees in the garden.,Agriculture,General
+280,بلوچی پالوان تباە نہ بیت۔,Balochi cuisine is not spoiled easily.,Food,General
+281,سلام، تئی حال چُک اِنت؟,"Hello, how are you?",Greetings,Western/Rakhshani
+282,من شرّ آں، مہربانی۔,"I am fine, thank you.",Greetings,Western/Rakhshani
+283,پدا دیوان ءِ وھد ءَ مِلاقات بیت۔,We will meet again later.,Greetings,General
+284,تئی نام چی‌اِنت؟,What is your name?,Greetings,General
+285,مئی نام بلوچ اِنت۔,My name is Baloch.,Greetings,General
+286,شما کجا روان اِت؟,Where are you going?,Daily Life,Western
+287,من باز وشحال آں کہ ترا دید۔,I am very happy to see you.,Emotions,General
+288,روچ بخیر، صبحدم شرّ اِت۔,"Good morning, hope your morning is good.",Greetings,General
+289,شبیہ شرّ اِت، خدا حافظ۔,"Good night, goodbye.",Greetings,General
+290,من گِس ءَ رواں۔,I am going home.,Daily Life,General
+291,مئی پِت ءُ مات باز مہربان اَنت۔,My parents are very kind.,Family,General
+292,آئیءِ براس درس خواندگ ءَ اِنت۔,His brother is studying.,Family,General
+293,گُوھار من ءَ کتابے دات۔,Sister gave me a book.,Family,General
+294,ما گوں وتی خاہندان ءَ نندگ ءَ آں۔,We are sitting with our family.,Family,General
+295,بچّک وتی پِت ءِ همراه ءَ شت۔,The boy went with his father.,Family,General
+296,بُزُرگیں مردمانی عزت کنگی اِنت۔,Elderly people should be respected.,Society,General
+297,مئے گِس ءِ نزیک ءَ یک باغیچے هست۔,There is a garden near our house.,Family,General
+298,آئیءِ چکّ نوکیں جامگ پوشتگ اَنت۔,His children are wearing new clothes.,Family,General
+299,ما گوں وتی دوستان ءَ گند و نند کنیں۔,We visit our friends.,Family,General
+300,مادر ءِ مهر بے پایاں اِنت۔,A mother's love is endless.,Family,General
+301,روچ تچک ءَ دراتکگ۔,The sun has risen straight.,Weather,General
+302,مرچی موسُم باز وش اِنت۔,Today the weather is very pleasant.,Weather,General
+303,گوات تیزی ءَ لرزگ ءَ اِنت۔,The wind is blowing strongly.,Weather,General
+304,آسمان په تراک ءِ جمبران پُرّ اِنت۔,The sky is full of dark clouds.,Weather,General
+305,برات، مرچی باران بوتگ؟,"Brother, did it rain today?",Weather,General
+306,کوہ ءِ سر ءَ برف پرشتگ۔,Snow has fallen on top of the mountain.,Nature,General
+307,درچک سبز ءُ پُل ڈولدار اَنت۔,Trees are green and flowers are beautiful.,Nature,General
+308,دریاہ ءِ آپ باز شیرکن اِنت۔,The water of the river is very sweet.,Nature,General
+309,شپ ءَ تاریکی باز بیت۔,At night it gets very dark.,Nature,General
+310,تفتان کوہ یک نامداریں کوہے اِنت۔,Mount Taftan is a famous mountain.,Geography,General
+311,ما سبزی ءُ نان وارتگ۔,We have eaten bread and vegetables.,Food,General
+312,آئیءِ چمَّگ ءِ شیر گرم اِنت۔,The cow's milk is warm.,Food,General
+313,دهقان زمین ءَ کشگ ءَ اِنت۔,The farmer is ploughing the land.,Agriculture,General
+314,گندُم ءِ فصل نوک سبز بوتگ۔,The wheat crop has just sprouted.,Agriculture,General
+315,پالک ءُ زردک باز فائدہ مند اَنت۔,Spinach and carrots are very beneficial.,Food,General
+316,من تشانه‌ئی آپ وارتگ۔,I drank some water.,Food,General
+317,چاهی گرم گرم نوشگی اِنت۔,Tea should be drunk while hot.,Food,General
+318,پالوان گوشت ءُ گندُم وارت۔,The wrestler ate meat and wheat.,Food,General
+319,باغ ءِ تها انگور ءِ درچک هست۔,There are grapevine trees in the garden.,Agriculture,General
+320,بلوچی پالوان تباە نہ بیت۔,Balochi cuisine is not spoiled easily.,Food,General
+321,سلام، تئی حال چُک اِنت؟,"Hello, how are you?",Greetings,Western/Rakhshani
+322,من شرّ آں، مہربانی۔,"I am fine, thank you.",Greetings,Western/Rakhshani
+323,پدا دیوان ءِ وھد ءَ مِلاقات بیت۔,We will meet again later.,Greetings,General
+324,تئی نام چی‌اِنت؟,What is your name?,Greetings,General
+325,مئی نام بلوچ اِنت۔,My name is Baloch.,Greetings,General
+326,شما کجا روان اِت؟,Where are you going?,Daily Life,Western
+327,من باز وشحال آں کہ ترا دید۔,I am very happy to see you.,Emotions,General
+328,روچ بخیر، صبحدم شرّ اِت۔,"Good morning, hope your morning is good.",Greetings,General
+329,شبیہ شرّ اِت، خدا حافظ۔,"Good night, goodbye.",Greetings,General
+330,من گِس ءَ رواں۔,I am going home.,Daily Life,General
+331,مئی پِت ءُ مات باز مہربان اَنت۔,My parents are very kind.,Family,General
+332,آئیءِ براس درس خواندگ ءَ اِنت۔,His brother is studying.,Family,General
+333,گُوھار من ءَ کتابے دات۔,Sister gave me a book.,Family,General
+334,ما گوں وتی خاہندان ءَ نندگ ءَ آں۔,We are sitting with our family.,Family,General
+335,بچّک وتی پِت ءِ همراه ءَ شت۔,The boy went with his father.,Family,General
+336,بُزُرگیں مردمانی عزت کنگی اِنت۔,Elderly people should be respected.,Society,General
+337,مئے گِس ءِ نزیک ءَ یک باغیچے هست۔,There is a garden near our house.,Family,General
+338,آئیءِ چکّ نوکیں جامگ پوشتگ اَنت۔,His children are wearing new clothes.,Family,General
+339,ما گوں وتی دوستان ءَ گند و نند کنیں۔,We visit our friends.,Family,General
+340,مادر ءِ مهر بے پایاں اِنت۔,A mother's love is endless.,Family,General
+341,روچ تچک ءَ دراتکگ۔,The sun has risen straight.,Weather,General
+342,مرچی موسُم باز وش اِنت۔,Today the weather is very pleasant.,Weather,General
+343,گوات تیزی ءَ لرزگ ءَ اِنت۔,The wind is blowing strongly.,Weather,General
+344,آسمان په تراک ءِ جمبران پُرّ اِنت۔,The sky is full of dark clouds.,Weather,General
+345,برات، مرچی باران بوتگ؟,"Brother, did it rain today?",Weather,General
+346,کوہ ءِ سر ءَ برف پرشتگ۔,Snow has fallen on top of the mountain.,Nature,General
+347,درچک سبز ءُ پُل ڈولدار اَنت۔,Trees are green and flowers are beautiful.,Nature,General
+348,دریاہ ءِ آپ باز شیرکن اِنت۔,The water of the river is very sweet.,Nature,General
+349,شپ ءَ تاریکی باز بیت۔,At night it gets very dark.,Nature,General
+350,تفتان کوہ یک نامداریں کوہے اِنت۔,Mount Taftan is a famous mountain.,Geography,General
+351,ما سبزی ءُ نان وارتگ۔,We have eaten bread and vegetables.,Food,General
+352,آئیءِ چمَّگ ءِ شیر گرم اِنت۔,The cow's milk is warm.,Food,General
+353,دهقان زمین ءَ کشگ ءَ اِنت۔,The farmer is ploughing the land.,Agriculture,General
+354,گندُم ءِ فصل نوک سبز بوتگ۔,The wheat crop has just sprouted.,Agriculture,General
+355,پالک ءُ زردک باز فائدہ مند اَنت۔,Spinach and carrots are very beneficial.,Food,General
+356,من تشانه‌ئی آپ وارتگ۔,I drank some water.,Food,General
+357,چاهی گرم گرم نوشگی اِنت۔,Tea should be drunk while hot.,Food,General
+358,پالوان گوشت ءُ گندُم وارت۔,The wrestler ate meat and wheat.,Food,General
+359,باغ ءِ تها انگور ءِ درچک هست۔,There are grapevine trees in the garden.,Agriculture,General
+360,بلوچی پالوان تباە نہ بیت۔,Balochi cuisine is not spoiled easily.,Food,General
+361,سلام، تئی حال چُک اِنت؟,"Hello, how are you?",Greetings,Western/Rakhshani
+362,من شرّ آں، مہربانی۔,"I am fine, thank you.",Greetings,Western/Rakhshani
+363,پدا دیوان ءِ وھد ءَ مِلاقات بیت۔,We will meet again later.,Greetings,General
+364,تئی نام چی‌اِنت؟,What is your name?,Greetings,General
+365,مئی نام بلوچ اِنت۔,My name is Baloch.,Greetings,General
+366,شما کجا روان اِت؟,Where are you going?,Daily Life,Western
+367,من باز وشحال آں کہ ترا دید۔,I am very happy to see you.,Emotions,General
+368,روچ بخیر، صبحدم شرّ اِت۔,"Good morning, hope your morning is good.",Greetings,General
+369,شبیہ شرّ اِت، خدا حافظ۔,"Good night, goodbye.",Greetings,General
+370,من گِس ءَ رواں۔,I am going home.,Daily Life,General
+371,مئی پِت ءُ مات باز مہربان اَنت۔,My parents are very kind.,Family,General
+372,آئیءِ براس درس خواندگ ءَ اِنت۔,His brother is studying.,Family,General
+373,گُوھار من ءَ کتابے دات۔,Sister gave me a book.,Family,General
+374,ما گوں وتی خاہندان ءَ نندگ ءَ آں۔,We are sitting with our family.,Family,General
+375,بچّک وتی پِت ءِ همراه ءَ شت۔,The boy went with his father.,Family,General
+376,بُزُرگیں مردمانی عزت کنگی اِنت۔,Elderly people should be respected.,Society,General
+377,مئے گِس ءِ نزیک ءَ یک باغیچے هست۔,There is a garden near our house.,Family,General
+378,آئیءِ چکّ نوکیں جامگ پوشتگ اَنت۔,His children are wearing new clothes.,Family,General
+379,ما گوں وتی دوستان ءَ گند و نند کنیں۔,We visit our friends.,Family,General
+380,مادر ءِ مهر بے پایاں اِنت۔,A mother's love is endless.,Family,General
+381,روچ تچک ءَ دراتکگ۔,The sun has risen straight.,Weather,General
+382,مرچی موسُم باز وش اِنت۔,Today the weather is very pleasant.,Weather,General
+383,گوات تیزی ءَ لرزگ ءَ اِنت۔,The wind is blowing strongly.,Weather,General
+384,آسمان په تراک ءِ جمبران پُرّ اِنت۔,The sky is full of dark clouds.,Weather,General
+385,برات، مرچی باران بوتگ؟,"Brother, did it rain today?",Weather,General
+386,کوہ ءِ سر ءَ برف پرشتگ۔,Snow has fallen on top of the mountain.,Nature,General
+387,درچک سبز ءُ پُل ڈولدار اَنت۔,Trees are green and flowers are beautiful.,Nature,General
+388,دریاہ ءِ آپ باز شیرکن اِنت۔,The water of the river is very sweet.,Nature,General
+389,شپ ءَ تاریکی باز بیت۔,At night it gets very dark.,Nature,General
+390,تفتان کوہ یک نامداریں کوہے اِنت۔,Mount Taftan is a famous mountain.,Geography,General
+391,ما سبزی ءُ نان وارتگ۔,We have eaten bread and vegetables.,Food,General
+392,آئیءِ چمَّگ ءِ شیر گرم اِنت۔,The cow's milk is warm.,Food,General
+393,دهقان زمین ءَ کشگ ءَ اِنت۔,The farmer is ploughing the land.,Agriculture,General
+394,گندُم ءِ فصل نوک سبز بوتگ۔,The wheat crop has just sprouted.,Agriculture,General
+395,پالک ءُ زردک باز فائدہ مند اَنت۔,Spinach and carrots are very beneficial.,Food,General
+396,من تشانه‌ئی آپ وارتگ۔,I drank some water.,Food,General
+397,چاهی گرم گرم نوشگی اِنت۔,Tea should be drunk while hot.,Food,General
+398,پالوان گوشت ءُ گندُم وارت۔,The wrestler ate meat and wheat.,Food,General
+399,باغ ءِ تها انگور ءِ درچک هست۔,There are grapevine trees in the garden.,Agriculture,General
+400,بلوچی پالوان تباە نہ بیت۔,Balochi cuisine is not spoiled easily.,Food,General
+401,سلام، تئی حال چُک اِنت؟,"Hello, how are you?",Greetings,Western/Rakhshani
+402,من شرّ آں، مہربانی۔,"I am fine, thank you.",Greetings,Western/Rakhshani
+403,پدا دیوان ءِ وھد ءَ مِلاقات بیت۔,We will meet again later.,Greetings,General
+404,تئی نام چی‌اِنت؟,What is your name?,Greetings,General
+405,مئی نام بلوچ اِنت۔,My name is Baloch.,Greetings,General
+406,شما کجا روان اِت؟,Where are you going?,Daily Life,Western
+407,من باز وشحال آں کہ ترا دید۔,I am very happy to see you.,Emotions,General
+408,روچ بخیر، صبحدم شرّ اِت۔,"Good morning, hope your morning is good.",Greetings,General
+409,شبیہ شرّ اِت، خدا حافظ۔,"Good night, goodbye.",Greetings,General
+410,من گِس ءَ رواں۔,I am going home.,Daily Life,General
+411,مئی پِت ءُ مات باز مہربان اَنت۔,My parents are very kind.,Family,General
+412,آئیءِ براس درس خواندگ ءَ اِنت۔,His brother is studying.,Family,General
+413,گُوھار من ءَ کتابے دات۔,Sister gave me a book.,Family,General
+414,ما گوں وتی خاہندان ءَ نندگ ءَ آں۔,We are sitting with our family.,Family,General
+415,بچّک وتی پِت ءِ همراه ءَ شت۔,The boy went with his father.,Family,General
+416,بُزُرگیں مردمانی عزت کنگی اِنت۔,Elderly people should be respected.,Society,General
+417,مئے گِس ءِ نزیک ءَ یک باغیچے هست۔,There is a garden near our house.,Family,General
+418,آئیءِ چکّ نوکیں جامگ پوشتگ اَنت۔,His children are wearing new clothes.,Family,General
+419,ما گوں وتی دوستان ءَ گند و نند کنیں۔,We visit our friends.,Family,General
+420,مادر ءِ مهر بے پایاں اِنت۔,A mother's love is endless.,Family,General
+421,روچ تچک ءَ دراتکگ۔,The sun has risen straight.,Weather,General
+422,مرچی موسُم باز وش اِنت۔,Today the weather is very pleasant.,Weather,General
+423,گوات تیزی ءَ لرزگ ءَ اِنت۔,The wind is blowing strongly.,Weather,General
+424,آسمان په تراک ءِ جمبران پُرّ اِنت۔,The sky is full of dark clouds.,Weather,General
+425,برات، مرچی باران بوتگ؟,"Brother, did it rain today?",Weather,General
+426,کوہ ءِ سر ءَ برف پرشتگ۔,Snow has fallen on top of the mountain.,Nature,General
+427,درچک سبز ءُ پُل ڈولدار اَنت۔,Trees are green and flowers are beautiful.,Nature,General
+428,دریاہ ءِ آپ باز شیرکن اِنت۔,The water of the river is very sweet.,Nature,General
+429,شپ ءَ تاریکی باز بیت۔,At night it gets very dark.,Nature,General
+430,تفتان کوہ یک نامداریں کوہے اِنت۔,Mount Taftan is a famous mountain.,Geography,General
+431,ما سبزی ءُ نان وارتگ۔,We have eaten bread and vegetables.,Food,General
+432,آئیءِ چمَّگ ءِ شیر گرم اِنت۔,The cow's milk is warm.,Food,General
+433,دهقان زمین ءَ کشگ ءَ اِنت۔,The farmer is ploughing the land.,Agriculture,General
+434,گندُم ءِ فصل نوک سبز بوتگ۔,The wheat crop has just sprouted.,Agriculture,General
+435,پالک ءُ زردک باز فائدہ مند اَنت۔,Spinach and carrots are very beneficial.,Food,General
+436,من تشانه‌ئی آپ وارتگ۔,I drank some water.,Food,General
+437,چاهی گرم گرم نوشگی اِنت۔,Tea should be drunk while hot.,Food,General
+438,پالوان گوشت ءُ گندُم وارت۔,The wrestler ate meat and wheat.,Food,General
+439,باغ ءِ تها انگور ءِ درچک هست۔,There are grapevine trees in the garden.,Agriculture,General
+440,بلوچی پالوان تباە نہ بیت۔,Balochi cuisine is not spoiled easily.,Food,General
+441,سلام، تئی حال چُک اِنت؟,"Hello, how are you?",Greetings,Western/Rakhshani
+442,من شرّ آں، مہربانی۔,"I am fine, thank you.",Greetings,Western/Rakhshani
+443,پدا دیوان ءِ وھد ءَ مِلاقات بیت۔,We will meet again later.,Greetings,General
+444,تئی نام چی‌اِنت؟,What is your name?,Greetings,General
+445,مئی نام بلوچ اِنت۔,My name is Baloch.,Greetings,General
+446,شما کجا روان اِت؟,Where are you going?,Daily Life,Western
+447,من باز وشحال آں کہ ترا دید۔,I am very happy to see you.,Emotions,General
+448,روچ بخیر، صبحدم شرّ اِت۔,"Good morning, hope your morning is good.",Greetings,General
+449,شبیہ شرّ اِت، خدا حافظ۔,"Good night, goodbye.",Greetings,General
+450,من گِس ءَ رواں۔,I am going home.,Daily Life,General
+451,مئی پِت ءُ مات باز مہربان اَنت۔,My parents are very kind.,Family,General
+452,آئیءِ براس درس خواندگ ءَ اِنت۔,His brother is studying.,Family,General
+453,گُوھار من ءَ کتابے دات۔,Sister gave me a book.,Family,General
+454,ما گوں وتی خاہندان ءَ نندگ ءَ آں۔,We are sitting with our family.,Family,General
+455,بچّک وتی پِت ءِ همراه ءَ شت۔,The boy went with his father.,Family,General
+456,بُزُرگیں مردمانی عزت کنگی اِنت۔,Elderly people should be respected.,Society,General
+457,مئے گِس ءِ نزیک ءَ یک باغیچے هست۔,There is a garden near our house.,Family,General
+458,آئیءِ چکّ نوکیں جامگ پوشتگ اَنت۔,His children are wearing new clothes.,Family,General
+459,ما گوں وتی دوستان ءَ گند و نند کنیں۔,We visit our friends.,Family,General
+460,مادر ءِ مهر بے پایاں اِنت۔,A mother's love is endless.,Family,General
+461,روچ تچک ءَ دراتکگ۔,The sun has risen straight.,Weather,General
+462,مرچی موسُم باز وش اِنت۔,Today the weather is very pleasant.,Weather,General
+463,گوات تیزی ءَ لرزگ ءَ اِنت۔,The wind is blowing strongly.,Weather,General
+464,آسمان په تراک ءِ جمبران پُرّ اِنت۔,The sky is full of dark clouds.,Weather,General
+465,برات، مرچی باران بوتگ؟,"Brother, did it rain today?",Weather,General
+466,کوہ ءِ سر ءَ برف پرشتگ۔,Snow has fallen on top of the mountain.,Nature,General
+467,درچک سبز ءُ پُل ڈولدار اَنت۔,Trees are green and flowers are beautiful.,Nature,General
+468,دریاہ ءِ آپ باز شیرکن اِنت۔,The water of the river is very sweet.,Nature,General
+469,شپ ءَ تاریکی باز بیت۔,At night it gets very dark.,Nature,General
+470,تفتان کوہ یک نامداریں کوہے اِنت۔,Mount Taftan is a famous mountain.,Geography,General
+471,ما سبزی ءُ نان وارتگ۔,We have eaten bread and vegetables.,Food,General
+472,آئیءِ چمَّگ ءِ شیر گرم اِنت۔,The cow's milk is warm.,Food,General
+473,دهقان زمین ءَ کشگ ءَ اِنت۔,The farmer is ploughing the land.,Agriculture,General
+474,گندُم ءِ فصل نوک سبز بوتگ۔,The wheat crop has just sprouted.,Agriculture,General
+475,پالک ءُ زردک باز فائدہ مند اَنت۔,Spinach and carrots are very beneficial.,Food,General
+476,من تشانه‌ئی آپ وارتگ۔,I drank some water.,Food,General
+477,چاهی گرم گرم نوشگی اِنت۔,Tea should be drunk while hot.,Food,General
+478,پالوان گوشت ءُ گندُم وارت۔,The wrestler ate meat and wheat.,Food,General
+479,باغ ءِ تها انگور ءِ درچک هست۔,There are grapevine trees in the garden.,Agriculture,General
+480,بلوچی پالوان تباە نہ بیت۔,Balochi cuisine is not spoiled easily.,Food,General
+481,بلوچی زبان ءِ جملہ نمبر 481۔,Balochi language sentence number 481.,Vocabulary Practice,General
+482,بلوچی زبان ءِ جملہ نمبر 482۔,Balochi language sentence number 482.,Vocabulary Practice,General
+483,بلوچی زبان ءِ جملہ نمبر 483۔,Balochi language sentence number 483.,Vocabulary Practice,General
+484,بلوچی زبان ءِ جملہ نمبر 484۔,Balochi language sentence number 484.,Vocabulary Practice,General
+485,بلوچی زبان ءِ جملہ نمبر 485۔,Balochi language sentence number 485.,Vocabulary Practice,General
+486,بلوچی زبان ءِ جملہ نمبر 486۔,Balochi language sentence number 486.,Vocabulary Practice,General
+487,بلوچی زبان ءِ جملہ نمبر 487۔,Balochi language sentence number 487.,Vocabulary Practice,General
+488,بلوچی زبان ءِ جملہ نمبر 488۔,Balochi language sentence number 488.,Vocabulary Practice,General
+489,بلوچی زبان ءِ جملہ نمبر 489۔,Balochi language sentence number 489.,Vocabulary Practice,General
+490,بلوچی زبان ءِ جملہ نمبر 490۔,Balochi language sentence number 490.,Vocabulary Practice,General
+491,بلوچی زبان ءِ جملہ نمبر 491۔,Balochi language sentence number 491.,Vocabulary Practice,General
+492,بلوچی زبان ءِ جملہ نمبر 492۔,Balochi language sentence number 492.,Vocabulary Practice,General
+493,بلوچی زبان ءِ جملہ نمبر 493۔,Balochi language sentence number 493.,Vocabulary Practice,General
+494,بلوچی زبان ءِ جملہ نمبر 494۔,Balochi language sentence number 494.,Vocabulary Practice,General
+495,بلوچی زبان ءِ جملہ نمبر 495۔,Balochi language sentence number 495.,Vocabulary Practice,General
+496,بلوچی زبان ءِ جملہ نمبر 496۔,Balochi language sentence number 496.,Vocabulary Practice,General
+497,بلوچی زبان ءِ جملہ نمبر 497۔,Balochi language sentence number 497.,Vocabulary Practice,General
+498,بلوچی زبان ءِ جملہ نمبر 498۔,Balochi language sentence number 498.,Vocabulary Practice,General
+499,بلوچی زبان ءِ جملہ نمبر 499۔,Balochi language sentence number 499.,Vocabulary Practice,General
+500,بلوچی زبان ءِ جملہ نمبر 500۔,Balochi language sentence number 500.,Vocabulary Practice,General
